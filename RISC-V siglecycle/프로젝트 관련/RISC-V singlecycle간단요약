@@ -1,0 +1,1 @@
+system verilog로 RISC-V의 구조중 하나인 singlecycle을 구현하고 uvm구조로 테스트 해보기 
